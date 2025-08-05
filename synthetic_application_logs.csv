@@ -41,7 +41,6 @@ timestamp,level,service,message,trace_id,span_id
 2025-08-05T07:23:09.147033Z,INFO,snowflake-adapter,Application started successfully,f423e,span062
 2025-08-05T07:23:11.147033Z,ERROR,vector-db,Failed to fetch embeddings from vector DB,aed7a,span034
 2025-08-05T07:22:32.147033Z,INFO,vector-db,Fetching user info from Snowflake,c3f4a,span069
-2025-08-05T07:25:21.147033Z,INFO,auth-service,Query executed successfully,8d8c3,span012
 2025-08-05T07:24:43.147033Z,DEBUG,snowflake-adapter,Query executed successfully,276e1,span053
 2025-08-05T07:25:31.147033Z,DEBUG,vector-db,Fetching user info from Snowflake,567ee,span062
 2025-08-05T07:25:36.147033Z,INFO,vector-db,Failed to fetch embeddings from vector DB,3c6fc,span015
