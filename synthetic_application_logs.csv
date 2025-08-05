@@ -1,0 +1,101 @@
+timestamp,level,service,message,trace_id,span_id
+2025-08-05T07:21:51.147033Z,INFO,snowflake-adapter,Failed to fetch embeddings from vector DB,3266c,span002
+2025-08-05T07:21:56.147033Z,INFO,springboot-app,Generated response for user prompt,18af3,span053
+2025-08-05T07:21:57.147033Z,DEBUG,snowflake-adapter,Data transformation completed,b063f,span046
+2025-08-05T07:21:54.147033Z,INFO,vector-db,Data transformation completed,de4c9,span069
+2025-08-05T07:21:59.147033Z,INFO,auth-service,Retrying embedding fetch,7b63e,span075
+2025-08-05T07:22:06.147033Z,WARN,vector-db,Retrying embedding fetch,668ed,span020
+2025-08-05T07:22:03.147033Z,INFO,auth-service,"Auth token expired, redirecting to login",a7829,span026
+2025-08-05T07:22:12.147033Z,WARN,vector-db,Generated response for user prompt,c915d,span010
+2025-08-05T07:21:59.147033Z,INFO,springboot-app,Application started successfully,2c770,span052
+2025-08-05T07:22:09.147033Z,INFO,vector-db,Connection timeout,b05f7,span073
+2025-08-05T07:22:01.147033Z,INFO,snowflake-adapter,Application started successfully,afcd0,span099
+2025-08-05T07:22:13.147033Z,INFO,springboot-app,"Auth token expired, redirecting to login",a9400,span084
+2025-08-05T07:22:03.147033Z,ERROR,vector-db,User info retrieved for user_id=42,431a4,span029
+2025-08-05T07:22:30.147033Z,INFO,snowflake-adapter,Retrying embedding fetch,505af,span091
+2025-08-05T07:22:33.147033Z,INFO,snowflake-adapter,Generated response for user prompt,457e3,span059
+2025-08-05T07:22:36.147033Z,INFO,springboot-app,Query executed successfully,9bb61,span071
+2025-08-05T07:22:23.147033Z,INFO,springboot-app,Retrying embedding fetch,52210,span057
+2025-08-05T07:22:59.147033Z,INFO,vector-db,User info retrieved for user_id=42,d1183,span034
+2025-08-05T07:22:27.147033Z,ERROR,snowflake-adapter,Fetching user info from Snowflake,e6269,span068
+2025-08-05T07:23:07.147033Z,INFO,vector-db,Query executed successfully,863cf,span077
+2025-08-05T07:23:11.147033Z,DEBUG,vector-db,Generated response for user prompt,6355c,span076
+2025-08-05T07:22:33.147033Z,INFO,auth-service,Connection timeout,994c7,span019
+2025-08-05T07:22:35.147033Z,DEBUG,snowflake-adapter,Failed to fetch embeddings from vector DB,9582d,span077
+2025-08-05T07:22:37.147033Z,INFO,vector-db,Failed to fetch embeddings from vector DB,7f398,span029
+2025-08-05T07:22:15.147033Z,INFO,springboot-app,Fetching user info from Snowflake,b27b2,span032
+2025-08-05T07:23:31.147033Z,INFO,vector-db,User info retrieved for user_id=42,4645c,span014
+2025-08-05T07:23:35.147033Z,INFO,vector-db,Application started successfully,c8662,span002
+2025-08-05T07:22:18.147033Z,INFO,snowflake-adapter,Application started successfully,26ee8,span044
+2025-08-05T07:22:47.147033Z,INFO,vector-db,Data transformation completed,70081,span029
+2025-08-05T07:22:20.147033Z,INFO,vector-db,Fetching user info from Snowflake,f1060,span013
+2025-08-05T07:24:21.147033Z,INFO,auth-service,Failed to fetch embeddings from vector DB,9fa8f,span004
+2025-08-05T07:23:24.147033Z,ERROR,springboot-app,Connection timeout,bba9e,span097
+2025-08-05T07:23:27.147033Z,DEBUG,vector-db,"Auth token expired, redirecting to login",35bf8,span043
+2025-08-05T07:22:24.147033Z,DEBUG,vector-db,Query executed successfully,ce6c7,span076
+2025-08-05T07:24:07.147033Z,INFO,auth-service,Retrying embedding fetch,940c2,span078
+2025-08-05T07:23:36.147033Z,WARN,auth-service,Connection timeout,dd174,span080
+2025-08-05T07:24:15.147033Z,INFO,snowflake-adapter,"Auth token expired, redirecting to login",c8bb6,span016
+2025-08-05T07:23:42.147033Z,INFO,snowflake-adapter,Fetching user info from Snowflake,5a9a9,span094
+2025-08-05T07:22:29.147033Z,INFO,auth-service,Fetching user info from Snowflake,7c127,span016
+2025-08-05T07:23:09.147033Z,INFO,snowflake-adapter,Application started successfully,f423e,span062
+2025-08-05T07:23:11.147033Z,ERROR,vector-db,Failed to fetch embeddings from vector DB,aed7a,span034
+2025-08-05T07:22:32.147033Z,INFO,vector-db,Fetching user info from Snowflake,c3f4a,span069
+2025-08-05T07:25:21.147033Z,INFO,auth-service,Query executed successfully,8d8c3,span012
+2025-08-05T07:24:43.147033Z,DEBUG,snowflake-adapter,Query executed successfully,276e1,span053
+2025-08-05T07:25:31.147033Z,DEBUG,vector-db,Fetching user info from Snowflake,567ee,span062
+2025-08-05T07:25:36.147033Z,INFO,vector-db,Failed to fetch embeddings from vector DB,3c6fc,span015
+2025-08-05T07:24:09.147033Z,INFO,auth-service,Query executed successfully,9fb60,span018
+2025-08-05T07:24:59.147033Z,DEBUG,springboot-app,Fetching user info from Snowflake,a5b2c,span085
+2025-08-05T07:23:27.147033Z,WARN,snowflake-adapter,Retrying embedding fetch,e5c5e,span083
+2025-08-05T07:23:29.147033Z,WARN,auth-service,Retrying embedding fetch,f01fa,span012
+2025-08-05T07:22:41.147033Z,DEBUG,auth-service,"Auth token expired, redirecting to login",b377d,span052
+2025-08-05T07:25:15.147033Z,ERROR,auth-service,Application started successfully,ae714,span050
+2025-08-05T07:24:27.147033Z,WARN,snowflake-adapter,Failed to fetch embeddings from vector DB,c49be,span075
+2025-08-05T07:23:37.147033Z,DEBUG,vector-db,Generated response for user prompt,eb6ad,span028
+2025-08-05T07:23:39.147033Z,DEBUG,springboot-app,Failed to fetch embeddings from vector DB,44825,span070
+2025-08-05T07:22:46.147033Z,DEBUG,vector-db,Generated response for user prompt,3cc15,span095
+2025-08-05T07:23:43.147033Z,INFO,vector-db,Connection timeout,54d1f,span090
+2025-08-05T07:25:39.147033Z,INFO,vector-db,User info retrieved for user_id=42,56747,span067
+2025-08-05T07:25:43.147033Z,DEBUG,snowflake-adapter,Generated response for user prompt,9aa9f,span036
+2025-08-05T07:26:46.147033Z,ERROR,vector-db,Application started successfully,20b72,span027
+2025-08-05T07:25:51.147033Z,ERROR,vector-db,Generated response for user prompt,cd73f,span024
+2025-08-05T07:24:54.147033Z,INFO,springboot-app,Connection timeout,30c88,span042
+2025-08-05T07:24:57.147033Z,INFO,springboot-app,Fetching user info from Snowflake,ed387,span048
+2025-08-05T07:26:03.147033Z,INFO,vector-db,Connection timeout,b6560,span088
+2025-08-05T07:23:59.147033Z,DEBUG,vector-db,Retrying embedding fetch,9edd9,span046
+2025-08-05T07:27:16.147033Z,INFO,snowflake-adapter,Connection timeout,1f5d4,span043
+2025-08-05T07:25:09.147033Z,INFO,snowflake-adapter,Application started successfully,8256f,span024
+2025-08-05T07:24:05.147033Z,INFO,springboot-app,Connection timeout,43aaa,span042
+2025-08-05T07:25:15.147033Z,WARN,snowflake-adapter,Query executed successfully,69c51,span018
+2025-08-05T07:24:09.147033Z,INFO,vector-db,Data transformation completed,547d1,span085
+2025-08-05T07:24:11.147033Z,INFO,auth-service,Data transformation completed,365cc,span034
+2025-08-05T07:27:46.147033Z,INFO,springboot-app,Query executed successfully,798e9,span029
+2025-08-05T07:25:27.147033Z,INFO,snowflake-adapter,Application started successfully,c107c,span051
+2025-08-05T07:26:43.147033Z,DEBUG,auth-service,Query executed successfully,b96b9,span052
+2025-08-05T07:28:01.147033Z,WARN,vector-db,Data transformation completed,3f550,span054
+2025-08-05T07:25:36.147033Z,INFO,snowflake-adapter,Failed to fetch embeddings from vector DB,2d424,span069
+2025-08-05T07:24:23.147033Z,DEBUG,auth-service,Data transformation completed,c1001,span018
+2025-08-05T07:24:25.147033Z,DEBUG,springboot-app,Data transformation completed,19cd2,span030
+2025-08-05T07:28:21.147033Z,INFO,springboot-app,Failed to fetch embeddings from vector DB,9ee7f,span019
+2025-08-05T07:23:10.147033Z,DEBUG,vector-db,User info retrieved for user_id=42,800d6,span037
+2025-08-05T07:27:11.147033Z,DEBUG,vector-db,Data transformation completed,870bc,span054
+2025-08-05T07:28:36.147033Z,DEBUG,snowflake-adapter,Query executed successfully,b7231,span003
+2025-08-05T07:23:13.147033Z,DEBUG,snowflake-adapter,Fetching user info from Snowflake,e2281,span083
+2025-08-05T07:26:00.147033Z,INFO,vector-db,Query executed successfully,b6864,span059
+2025-08-05T07:24:39.147033Z,INFO,auth-service,Fetching user info from Snowflake,65a09,span015
+2025-08-05T07:24:41.147033Z,ERROR,springboot-app,Data transformation completed,2021c,span048
+2025-08-05T07:24:43.147033Z,DEBUG,snowflake-adapter,Connection timeout,20e1c,span086
+2025-08-05T07:26:12.147033Z,INFO,vector-db,Generated response for user prompt,84a9c,span053
+2025-08-05T07:29:11.147033Z,DEBUG,springboot-app,Query executed successfully,5385f,span006
+2025-08-05T07:29:16.147033Z,INFO,snowflake-adapter,Connection timeout,c2962,span027
+2025-08-05T07:29:21.147033Z,DEBUG,auth-service,Data transformation completed,ac9d8,span090
+2025-08-05T07:26:24.147033Z,ERROR,springboot-app,Failed to fetch embeddings from vector DB,7c998,span079
+2025-08-05T07:23:23.147033Z,INFO,auth-service,Generated response for user prompt,569a0,span082
+2025-08-05T07:26:30.147033Z,INFO,auth-service,Query executed successfully,c9e60,span061
+2025-08-05T07:29:41.147033Z,INFO,vector-db,Failed to fetch embeddings from vector DB,ba8ff,span034
+2025-08-05T07:25:01.147033Z,INFO,springboot-app,"Auth token expired, redirecting to login",86980,span081
+2025-08-05T07:29:51.147033Z,INFO,snowflake-adapter,Fetching user info from Snowflake,22445,span096
+2025-08-05T07:23:28.147033Z,DEBUG,vector-db,Fetching user info from Snowflake,c09ab,span023
+2025-08-05T07:30:01.147033Z,WARN,springboot-app,Retrying embedding fetch,89c0d,span054
+2025-08-05T07:25:09.147033Z,ERROR,snowflake-adapter,Connection timeout,8ef46,span049
